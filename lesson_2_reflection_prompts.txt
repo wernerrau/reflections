@@ -12,11 +12,14 @@ change?
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+	you can try other different possibilities and work on them separately
 
 How do the diagrams help you visualize the branch structure?
+	see what changes are reachable and which are not
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+	changes at different parts or by different people are put together in one version
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
